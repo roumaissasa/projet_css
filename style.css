@@ -1,0 +1,93 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  background-color: hsl(0, 0%, 8%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  padding: 70px;
+}
+.count {
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 450px;
+  width: 300px;
+  border-radius: 5px;
+}
+.img {
+  border-radius: 90px;
+  height: 90px;
+  width: 90px;
+ 
+}
+.title {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+   margin-top: 10px;
+}
+.nav {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 15px;
+  color: hsl(75, 94%, 57%);
+  margin-top: 12px;
+}
+.dev {
+     margin-top: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 13px;
+}
+.div {
+     margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 13px;
+}
+.btn1 {
+  background-color: hsl(0, 0%, 12%);
+  color: white;
+  height: 25px;
+  width: 210px;
+  border-radius: 4px;
+  border: none;
+}
+.btn2 {
+  background-color: hsl(0, 0%, 12%);
+  color: white;
+  height: 25px;
+  width: 210px;
+  border-radius: 4px;
+  border: none;
+}
+.btn3 {
+  background-color: hsl(0, 0%, 12%);
+  color: white;
+  height: 25px;
+  width: 210px;
+  border-radius: 4px;
+  border: none;
+}
+.btn4 {
+  background-color: hsl(0, 0%, 12%);
+  color: white;
+  height: 25px;
+  width: 210px;
+  border-radius: 4px;
+  border: none;
+}
+.btn5 {
+  background-color: hsl(0, 0%, 12%);
+  color: white;
+  height: 25px;
+  width: 210px;
+  border-radius: 4px;
+  border: none;
+}
